@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel",
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel", T sports
 http://95.216.247.104:8080/live/play/V1hkYVFXTjNRbGs0TVZWcVNtWlZjbmx5U0hORldqWXhiV2xhVHl0Q01XSXpjRXBSYTA5b1VYTnhZejA9/167590
